@@ -3,7 +3,6 @@
 
 **GearUp** is a web application designed to provide a collaborative space for school students to showcase their projects. Students can easily create, edit, and delete their posts, share links, and inspire each other within a vibrant community.
 
-### Visit the Website :  https://gearup-deploy.onrender.com/
 
 ## Purpose
 
